@@ -1,0 +1,678 @@
+body{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1950px;
+    height: auto;
+    background: #bc1313;
+}
+.category{
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 366.5px;
+    top: 178px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+
+    color: #115FD6;
+}
+
+.by{
+    position: absolute;
+    width: 496px;
+    height: 40px;
+    left: 366.5px;
+    top: 418px;
+}
+#snapish{
+    position: absolute;
+    width: 843px;
+    height: 120px;
+    left: 366.5px;
+    top: 214px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 60px;
+    color: #172B4D;
+}
+
+.content-text1{
+    position: absolute;
+    width: 812px;
+    height: 671px;
+    left: 367.5px;
+    top: 1136px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    color: #000000;
+}
+.by-img{
+    box-sizing: border-box;
+    position: absolute;
+    width: 45.17px;
+    height: 44.3px;
+    left: 366.56px;
+    top: 443.79px;
+    border: 1px solid #979797;
+}
+.by-text{
+    position: absolute;
+    width: 560.06px;
+    height: 44.3px;
+    left: 420.56px;
+    top: 443.79px;
+}
+.main-img{
+    position: absolute;
+    width: 1188px;
+    height: 594px;
+    left: 366.5px;
+    top: 494px;
+}
+.mid{
+    position: absolute;
+    width: 843px;
+    height: 120px;
+    left: 366.5px;
+    top: 1760px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 60px;
+    color: #172B4D;
+}
+.content-text2{
+    position: absolute;
+    width: 812px;
+    height: 671px;
+    left: 367.5px;
+    top: 1980px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    color: #000000;
+    }
+.twitter{
+    position: absolute;
+    width: 678px;
+    height: 33px;
+    left: 366.5px;
+    top: 2605px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;
+    color: #172B4D;
+}
+.legend{
+    width: 396px;
+    height: 21px;
+    left: 366.5px;
+    top: 2903px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.product-img1{
+    position: absolute;
+    width: 270px;
+    height: 203px;
+    left: 366.5px;
+    top: 2961px;
+    border-radius: 0px;
+}
+.img-head1{
+    position: absolute;
+    width: 450px;
+    height: 64px;
+    left: 672.5px;
+    top: 3004px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #172B4D;
+}
+.img-text1{
+    position: absolute;
+    width: 445px;
+    height: 72px;
+    left: 672.5px;
+    top: 3077px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #172B4D;
+}
+.name1{
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    left: 672.5px;
+    top: 2975px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.time1{
+    position: absolute;
+    width: 105px;
+    height: 21px;
+    left: 750.5px;
+    top: 2975px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E; 
+}
+.product-img2{
+    position: absolute;
+    width: 270px;
+    height: 203px;
+    left: 366.5px;
+    top: 3199px;
+    border-radius: 0px;
+}
+.img-head2{
+    position: absolute;
+    width: 430px;
+    height: 64px;
+    left: 672.5px;
+    top: 3243px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #172B4D;
+}
+.img-text2{
+    position: absolute;
+    width: 462px;
+    height: 72px;
+    left: 672.5px;
+    top: 3316px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #172B4D;
+}
+.name2{
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    left: 672.5px;
+    top: 3213px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+
+    color: #42526E;
+}
+.time2{
+    position: absolute;
+    width: 105px;
+    height: 21px;
+    left: 750.5px;
+    top: 3213px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.product-img3{
+    position: absolute;
+    width: 270px;
+    height: 203px;
+    left: 366.5px;
+    top: 3439px;
+    border-radius: 0px;
+}
+.img-head3{
+    position: absolute;
+    width: 442px;
+    height: 64px;
+    left: 672.5px;
+    top: 3467px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #172B4D;
+}
+.img-text3{
+    position: absolute;
+    width: 443px;
+    height: 72px;
+    left: 672.5px;
+    top: 3572px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #172B4D;
+}
+.name3{
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    left: 672.5px;
+    top: 3437px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.time3{
+    position: absolute;
+    width: 105px;
+    height: 21px;
+    left: 750.5px;
+    top: 3437px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.product-img4{
+    position: absolute;
+    width: 270px;
+    height: 203px;
+    left: 366.5px;
+    top: 3679px;
+    border-radius: 0px;
+}
+.img-head4{
+    position: absolute;
+    width: 425px;
+    height: 64px;
+    left: 672.5px;
+    top: 3722px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #172B4D;
+}    
+.img-text4{
+    position: absolute;
+    width: 464px;
+    height: 72px;
+    left: 672.5px;
+    top: 3795px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #172B4D;
+}
+.name4{
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    left: 672.5px;
+    top: 3693px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.time4{
+    position: absolute;
+    width: 105px;
+    height: 21px;
+    left: 750.5px;
+    top: 3693px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+
+.side-legend{
+    position: absolute;
+    width: 118px;
+    height: 24px;
+    left: 1236.5px;
+    top: 1136px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.84px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.side-img1{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1236.5px;
+    top: 1182px;
+    border-radius: 0px;
+}
+.side-name1{
+    position: absolute;
+    width: 58px;
+    height: 21px;
+    left: 1328.5px;
+    top: 1176px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.side-text1{
+    position: absolute;
+    width: 209px;
+    height: 72px;
+    left: 1328.5px;
+    top: 1195px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #172B4D;
+}
+.side-hr1{
+    position: absolute;
+    width: 317px;
+    height: 1px;
+    left: 1237.5px;
+    top: 1309px;
+    background: #172B4D;
+    border-radius: 0px;
+}
+.side-img2{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1236.5px;
+    top: 1332px;
+    border-radius: 0px;
+}
+.side-name2{
+    position: absolute;
+    width: 144px;
+    height: 21px;
+    left: 1328.5px;
+    top: 1326px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.side-text2{
+    position: absolute;
+    width: 225px;
+    height: 72px;
+    left: 1328.5px;
+    top: 1345px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    /* or 126% */
+    color: #172B4D;
+}
+.side-hr2{
+    position: absolute;
+    width: 317px;
+    height: 1px;
+    left: 1237.5px;
+    top: 1428px;
+    background: #172B4D;
+    border-radius: 0px;
+}
+.side-img3{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1236.5px;
+    top: 1451px;
+    border-radius: 0px;
+}
+.side-name3{
+    position: absolute;
+    width: 90px;
+    height: 21px;
+    left: 1328.5px;
+    top: 1445px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.side-text3{
+    position: absolute;
+    width: 214px;
+    height: 72px;
+    left: 1328.5px;
+    top: 1464px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #172B4D;
+}
+.side-hr3{
+    position: absolute;
+    width: 317px;
+    height: 1px;
+    left: 1237.5px;
+    top: 1554px;
+    background: #172B4D;
+    border-radius: 0px;
+}
+.side-img4{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1236.5px;
+    top: 1577px;
+    border-radius: 0px;
+}
+.side-name4{
+    position: absolute;
+    width: 90px;
+    height: 21px;
+    left: 1328.5px;
+    top: 1571px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    color: #42526E;
+}
+.side-text4{
+    position: absolute;
+    width: 197px;
+    height: 72px;
+    left: 1328.5px;
+    top: 1590px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    color: #172B4D;
+}
+.side-hr4{
+    position: absolute;
+    width: 317px;
+    height: 1px;
+    left: 1237.5px;
+    top: 1680px;
+    background: #172B4D;
+    border-radius: 0px;
+}
+.sidebox{
+    background-color: orange;
+    position: absolute;
+    width: 317px;
+    height: 352px;
+    left: 1237.5px;
+    top: 1713px;
+}
+.boxt1 {
+    position: absolute;
+    width: 254px;
+    height: 72px;
+    left: 1268.5px;
+    top: 1743px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.boxt2 {
+    position: absolute;
+    width: 268px;
+    height: 99px;
+    left: 1261.5px;
+    top: 1831px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.but{
+    box-sizing: border-box;
+    position: absolute;
+    width: 116px;
+    height: 44px;
+    left: 1337.5px;
+    top: 1985px;
+    background: #DEEBFF;
+    border: 2px solid #DEEBFF;
+    border-radius: 3px;
+}
+.but-text{
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 1355.5px;
+    top: 1980px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #091E42;
+}
+.content{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 366.5px;
+    top: 1136px;
+}
+.main{
+    position: absolute;
+    width: 1920px;
+    height: 4236px;
+    background: #dcd7d7;
+}
+.side{
+    position: absolute;
+    width: 318px;
+    height: 545px;
+    left: 1236.5px;
+    top: 1136px;
+}
+.product{
+    position: absolute;
+    width: 770px;
+    height: 979px;
+    left: 366.5px;
+    top: 2903px;
+}
